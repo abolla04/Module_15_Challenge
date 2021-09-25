@@ -29,7 +29,7 @@ Sample Utterances:
 
 Slots:
 
-![RoboAdvisor_Slots](RoboAdvisor_Visuals/RoboAdvisor_Slots)
+![RoboAdvisor_Slots](RoboAdvisor_Visuals/RoboAdvisor_Slots.png)
 
 To enhance the use of the robo advisor, sign into the Amazon Console.  Create a new Lambda Function using Python 3.7 named "recommendPortfolio."  Copy the lambda_function.py file from the Lambfa folder in the repository.  Next, create the following four tests using the code from the Test_Events folder in the repository (ageError, correctDialog, incorrectAmountError, negativeAgeError).
 
