@@ -25,11 +25,11 @@ Creat the robo advisor using Amazon Lex using the following visuals.
 
 Sample Utterances:
 
-![RoboAdvisor_Sample_Utterances](Starter_Code/RoboAdvisor_Visuals/RoboAdvisor_Sample_Utterances.png)
+![RoboAdvisor_Sample_Utterances](RoboAdvisor_Visuals/RoboAdvisor_Sample_Utterances.png)
 
 Slots:
 
-![RoboAdvisor_Slots](Starter_Code/RoboAdvisor_Visuals/RoboAdvisor_Slots)
+![RoboAdvisor_Slots](RoboAdvisor_Visuals/RoboAdvisor_Slots)
 
 To enhance the use of the robo advisor, sign into the Amazon Console.  Create a new Lambda Function using Python 3.7 named "recommendPortfolio."  Copy the lambda_function.py file from the Lambfa folder in the repository.  Next, create the following four tests using the code from the Test_Events folder in the repository (ageError, correctDialog, incorrectAmountError, negativeAgeError).
 
